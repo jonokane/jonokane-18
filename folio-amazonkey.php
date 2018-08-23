@@ -6,8 +6,8 @@
             <div class="col-md-6">
                 <h2 class="folioTitle">Amazon Key</h2>
             </div>
-            <div class="col-6">
-                <span class="float-right folio-info-bar">
+            <div class="col">
+                <span class="float-md-right folio-info-bar">
                     <a href="https://amazon.com/key" target="_blank" class="btn-ghost">
                         <span class="ss-icon ss-glyphish-outlined">link</span> http://amazon.com/key</a>
                         
