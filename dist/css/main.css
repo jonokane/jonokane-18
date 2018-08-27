@@ -62,7 +62,8 @@ body {
 
 p {
     font-weight: 400;
-    color: #335f79;
+    /*color: #335f79;*/
+    color:#212529;
   }
 
 a{
@@ -169,7 +170,7 @@ h2.folioTitle{
     font-family: &quot;brandon-grotesque&quot;;
     /* text-transform: uppercase; */
     font-weight: 200;
-    font-size: 27pt;
+    font-size: 34pt;
 }
 
 
@@ -213,6 +214,29 @@ h2.folioTitle{
 .folio-pg{
   margin:5% 0;
 }
+
+iframe {
+    display:block;
+    width:100%;
+    min-height:400px;
+    margin:2em 0;
+}
+.spacer-bot{
+  margin-bottom: 2em;
+}
+
+
+/*.case-study h4{
+  font-weight: 200;
+  font-size: 22pt;
+}*/
+
+.case-study{
+  /*border-top: 1px solid #212529;*/
+}
+
+
+
 
 
 .btn.btn-submit-ghost-off.contact-submit{
