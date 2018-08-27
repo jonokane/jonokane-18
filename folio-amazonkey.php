@@ -73,11 +73,10 @@
         </div>
     </section>
 </section>
-<section>
+<!-- <section>
     <div class="container case-study">
         <div class="row">
             <div class="col">
-                    <!-- <hr> -->
 
                 <h4>UX Case Study: Amazon Key In-Home Kit Setup</h4>
                     <hr>
@@ -87,9 +86,11 @@
         <div class="row">
             <div class="col">
                 <p>
-                    <h5>Overview:</h5>
+                    <h5>Overview</h5>
                     <p>We designed <a href="https://www.amazon.com/b?node=17861200011">Amazon Key In-Home Delivery</a> to address the growing concern of package theft, while providing users with the benefits of a smart lock and camera for safe owner and guest access. Amazon Key is a complete home-access and unattended delivery solution, which includes a hardware kit (smart lock + web cam), as well as an <a href="https://itunes.apple.com/us/app/amazon-key/id1291586307?mt=8">iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.amazon.cosmos&hl=en_US">Android</a> app that allows users to set up the kit, unlock/lock access, see upcoming deliveries, and view deliveries in real time, or as video clips once they've occurred. </p>
                     <p>Amazon Key allows a safe and secure cloud-based unlock from either the owner, their guests, or - with the right vetted credentials - an Amazon delivery driver. Video of in-home deliveries are streamed live to the app and a video clip is also created once the delivery is complete. </p>
+                    <iframe src="https://www.youtube.com/embed/wn7DBdaUNLA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
                     <p>The design challenges involved with a "day one" product are, of course, abundant. Through the design journey, we divided the work into these main categories:
                         <ul>
                             <li><strong>Setup:</strong> Lock installation and setup, camera setup, delivery setup, and general onboarding messaging.</li>
@@ -99,8 +100,9 @@
                             <li><strong>Settings/help:</strong> Settings, help, feedback, etc.</li>
                         </ul>
                     </p>
-                    <p>In this case study, I'll be focusing on the setup portion of the UX design.</p>
-                    <h5>Challenges:</h5>
+                    <p>In this case study, I'll be focusing on the setup UX of Amazon Key.</p>
+                    
+                    <h5>Challenges</h5>
                     <p>A significant portion of my initial work on Amazon Key involved crafting the setup UX, which is predicated on three unique high-level challenges that we had to solve:
                         <ol>
                             <li><strong>Explain what it is and how it works.</strong> This was something that we initially missed in early versions of the design. We wrongfully assumed users would already understand how it works before finding themselves in the setup flow. During research, we discovered that even though we would let users read a PR-FAQ on the program, they still didn't fully understand many important aspects of it. And it makes sense: this is an entirely new product, and people needed clear information on the features and how to use them. We determined that onboarding cards that explained the high-level basics of how it works would directly address this issue. During early usability research, this theory was proven to be true. Users had a better understanding of the product once they had seen those intial onboarding cards. Some users did mention that they'd like to skip the cards. Because we know that some people simply don't have any interest in reading the cards, we had to use very clear explanatory copy on every screen of setup. The combination of helpful onboarding cards with clear explanatory copy on every screen of the setup flow was how we were able to address this challenge.</li>
@@ -113,7 +115,7 @@
                     <p>People interested in Amazon Key are those that are frustrated with stolen packages, as well as users who are intrigued by the smart-access (IOT devices) features. The type of users for Amazon Key will shift over time, starting with those that are tech-savvy and eventually moving to a broader, less-niche customer-base.</p>
                     <p>Because the userbase is fairly broad, we had to strike a balance between helpful informational setup screens and copy, while just giving the user just enough options and technical info to better understand the feature, if they found interest in it.</p>
                     
-                    <h5>What’s your role in the project?</h5>
+                    <h5>My role in the project</h5>
                     <p>I am currently one of two design leads assigned to Amazon Key. The team has evolved over time, but over the course of the two+ year project, most of the work was performed by myself, <a href="http://www.kristinehanson.design/">Kristine Hanson</a>, and <a href="http://www.amysolenberg.com/">Amy Solenberg</a>. We worked closely with <a href="https://www.linkedin.com/in/suzannecurrie/">Suzanne Currie</a>, our lead ux researcher, as well as a number of other designers and design managers, who gave input along the way. The work itself is incredibly cross-functional, so we were often working alongside 3-5 product managers (per feature), backend engineers, iOS engineers, and Android engineers.</p>
                     <p>As design lead, I was (and continue to be) responsible for the following tasks:
                         <ul>
@@ -146,5 +148,5 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <?php include 'incl/footer.php'; ?>

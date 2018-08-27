@@ -91,7 +91,7 @@
         <div class="row">
             <div class="col">
                 <p>
-                    <h5>Overview:</h5>
+                    <h5>Overview</h5>
                     <p>We designed <a href="https://www.amazon.com/b?node=17051031011">Amazon Key In-Car Delivery</a> to address the growing concern of package theft, by providing package delivery right inside the user's car. Amazon Key In-Car delivery uses the vehicle's built-in cloud connectivity and an <a href="https://itunes.apple.com/us/app/amazon-key/id1291586307?mt=8">iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.amazon.cosmos&hl=en_US">Android</a> app to allow users to set up, see upcoming deliveries, and see deliveries that have occured. </p>
                     <iframe src="https://www.youtube.com/embed/uqi0ZAYPyPk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
