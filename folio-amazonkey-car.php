@@ -151,6 +151,9 @@
                     <p>Due to the secrecy of this project, all the initial research was conducted with a small sample of internal participants - we didn't use any quantitative data until after the project launched and was in the wild. The small sample of a similar demographic (all Amazon employees) proved to be a challenge. During our internal research, we tried our best to choose employees of entirely differet functions and levels to address the single-user-persona issue.</p>
                     <img src="img/work/case-studies/usertesting01.JPG" alt="" class="img-fluid spacer-bot">
 
+                    <h5>Launch and beyond</h5>
+                    <p>Since launching in-car delivery in April 2018, we have iterated setup and many other facets of the experience with weekly design sprints and bi-weekly app releases. Our metric for success is customer happiness, which we take very seriously. The Amazon Key app has two primary customer feedback mechanisms, which are like UX gold for us. As we continue to closely track data and listen to feedback from customers, the unique experience of in-car delivery becomes a delightful normal method for Amazon customers to receive their packages with delight. </p>
+
                     </p>
             </div>
         </div>
